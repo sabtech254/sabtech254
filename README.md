@@ -23,4 +23,5 @@ https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=
 https://img.shields.io/badge/phpMyAdmin-6C78AF.svg?style=for-the-badge&logo=phpMyAdmin&logoColor=white
 https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white
 https://img.shields.io/badge/cPanel-FF6C2C.svg?style=for-the-badge&logo=cPanel&logoColor=white
-https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white
+
+<img alt="Alt text" src="<copied link>](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)"/>
