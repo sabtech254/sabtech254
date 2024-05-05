@@ -1,8 +1,5 @@
 <img align="right" alt="Followers" src="https://img.shields.io/github/followers/sabtech254?style=for-the-badge&logo=github&labelColor=e74c3c&color=black">
 <img align="left" alt="User's stars" src="https://img.shields.io/github/stars/sabtech254?style=for-the-badge&logo=github&labelColor=e74c3c&color=black">
-<a target="_blank" href="https://www.paypal.com/paypalme/sabtech254">
-    <img alt="paypal" src="https://img.shields.io/badge/paypal-donation?style=for-the-badge&logo=paypal&labelColor=black&color=%23003087">
-  </a>
 <br/>
 <h3 align="center"> &gt; Hey There!, SABTECH254</h1>
 <p align="center">「 Developer in Open Source projects like OpenWrt, ImmortalWrt, and Docker applications 」</p>
