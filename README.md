@@ -6,31 +6,12 @@
 <p align="center">「 Developer in Open Source projects like OpenWrt, ImmortalWrt, and Docker applications 」</p>
 <hr/>
 <div align="center">
-  <a target="_blank" href="https://www.buymeacoffee.com/sabtech254">
-    <img alt="buymeacoffee" src="https://img.shields.io/badge/buy%20me%20a%20coffee-donation?style=for-the-badge&logo=buymeacoffee&labelColor=black&color=%23FFDD00">
-  </a>
+  
   <a target="_blank" href="https://www.paypal.com/paypalme/sabtech254">
     <img alt="paypal" src="https://img.shields.io/badge/paypal-donation?style=for-the-badge&logo=paypal&labelColor=black&color=%23003087">
   </a>
-  <a target="_blank" href="https://saweria.co/sabtech254">
-    <img alt="saweria" src="https://img.shields.io/badge/saweria-donation?style=for-the-badge&logo=adobeindesign&labelColor=black&color=%23FFA401">
-  </a>
+ 
 </div>
-
-## My LuCI Project
-[![luci-app-dnsleaktest](https://github-readme-stats.vercel.app/api/pin/?username=sabtech254&repo=luci-app-dnsleaktest&border_color=e74c3c&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=e74c3c)](https://github.com/animegasan/luci-app-dnsleaktest)
-[![luci-app-speedtest](https://github-readme-stats.vercel.app/api/pin/?username=sabtech254&repo=luci-app-speedtest&border_color=e74c3c&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=e74c3c)](https://github.com/animegasan/luci-app-speedtest)
-[![luci-app-alpha-config](https://github-readme-stats.vercel.app/api/pin/?username=sabtech254&repo=luci-app-alpha-config&border_color=e74c3c&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=e74c3c)](https://github.com/animegasan/luci-app-alpha-config)
-[![luci-app-cloudflared](https://github-readme-stats.vercel.app/api/pin/?username=sabtech254&repo=luci-app-cloudflared&border_color=e74c3c&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=e74c3c)](https://github.com/animegasan/luci-app-cloudflared)
-[![luci-app-gpioled](https://github-readme-stats.vercel.app/api/pin/?username=sabtech254&repo=luci-app-gpioled&border_color=e74c3c&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=e74c3c)](https://github.com/animegasan/luci-app-gpioled)
-[![luci-app-appstatus](https://github-readme-stats.vercel.app/api/pin/?username=sabtech254&repo=luci-app-appstatus&border_color=e74c3c&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=e74c3c)](https://github.com/animegasan/luci-app-appstatus)
-
-## My Docker Project
-[![mikbotam](https://github-readme-stats.vercel.app/api/pin/?username=sabtech254&repo=mikbotam&border_color=e74c3c&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=e74c3c)](https://github.com/animegasan/mikbotam)
-[![phpnuxbill](https://github-readme-stats.vercel.app/api/pin/?username=sabtech254&repo=phpnuxbill&border_color=e74c3c&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=e74c3c)](https://github.com/animegasan/phpnuxbill)
-[![mikpos](https://github-readme-stats.vercel.app/api/pin/?username=sabtech254&repo=mikpos&border_color=e74c3c&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=e74c3c)](https://github.com/animegasan/mikpos)
-[![extraordinary-cbt](https://github-readme-stats.vercel.app/api/pin/?username=sabtech254&repo=extraordinary-cbt&border_color=e74c3c&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=e74c3c)](https://github.com/animegasan/extraordinary-cbt)
-[![mikhmon](https://github-readme-stats.vercel.app/api/pin/?username=sabtech254&repo=mikhmon&border_color=e74c3c&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=e74c3c)](https://github.com/animegasan/mikhmon)
 
 <hr/>
 
