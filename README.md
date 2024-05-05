@@ -2,7 +2,6 @@
 <img align="left" alt="User's stars" src="https://img.shields.io/github/stars/sabtech254?style=for-the-badge&logo=github&labelColor=e74c3c&color=black">
 <br/>
 <h3 align="center"> &gt; Hey There!, SABTECH254</h1>
-<p align="center">「 Developer in Open Source projects like OpenWrt, ImmortalWrt, and Docker applications 」</p>
 <hr/>
 <div align="center">
   
