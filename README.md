@@ -1,7 +1,5 @@
-<img align="right" alt="Followers" src="https://img.shields.io/github/followers/sabtech254?style=for-the-badge&logo=github&labelColor=e74c3c&color=black">
-<img align="left" alt="User's stars" src="https://img.shields.io/github/stars/sabtech254?style=for-the-badge&logo=github&labelColor=e74c3c&color=black">
-<br/>
-<h3 align="center">SABTECH</h1>
+<img align="right" alt="Followers" src="https://img.shields.io/github/followers/sabtech254?style=for-the-badge&logo=github&labelColor=e74c3c&color=#0bdbad">
+<img align="left" alt="User's stars" src="https://img.shields.io/github/stars/sabtech254?style=for-the-badge&logo=github&labelColor=e74c3c&color=#0bdbad">
 <hr/>
 <div align="center">
   
