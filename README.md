@@ -1,5 +1,4 @@
 <img align="right" alt="Followers" src="https://img.shields.io/github/followers/sabtech254?style=for-the-badge&logo=github&labelColor=e74c3c&color=#0bdbad">
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge-query&query_only=true)
 <img align="left" alt="User's stars" src="https://img.shields.io/github/stars/sabtech254?style=for-the-badge&logo=github&labelColor=e74c3c&color=#0bdbad">
 <hr/>
 <div align="center">
